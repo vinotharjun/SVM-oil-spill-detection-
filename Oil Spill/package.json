@@ -1,0 +1,23 @@
+{
+  "name": "oil-spill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "adaptive-threshold": "^1.2.0",
+    "get-pixels": "^3.3.2",
+    "lodash": "^4.17.11",
+    "ml-svm": "^2.1.2",
+    "plotly": "^1.0.6",
+    "save-pixels": "^2.3.4",
+    "vega": "^5.2.0"
+  },
+  "dependencies": {
+    "ml-confusion-matrix": "^0.3.0"
+  }
+}
