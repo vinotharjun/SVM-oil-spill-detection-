@@ -15,7 +15,7 @@
     "ml-svm": "^2.1.2",
     "plotly": "^1.0.6",
     "save-pixels": "^2.3.4",
-    "vega": "^5.2.0"
+    "vega": "^5.22.1"
   },
   "dependencies": {
     "ml-confusion-matrix": "^0.3.0"
